@@ -132,11 +132,9 @@ html {
     text-decoration: none;
     padding-top: 2px;
 }
-
-.primary-nutton {
+.primary-button:hover {
     background-color: #333;
 }
-
 .primary-button a:hover {
     background-color: #fac311;
     color: #333;
@@ -147,8 +145,7 @@ html {
     color: #fca311;
     text-decoration: none;
 }
-
-.secondary-button {
+.secondary-button:hover {
     background-color: #333;
 }
 
